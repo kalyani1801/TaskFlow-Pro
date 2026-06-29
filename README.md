@@ -22,19 +22,18 @@ TaskFlow-Pro is a responsive task management web application built using HTML, C
 - JavaScript
 
 ## Live Demo
-
-🔗 Your GitHub Pages URL Here
+ https://kalyani1801.github.io/TaskFlow-Pro/
 
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
+<img width="1907" height="903" alt="Screenshot 2026-06-29 231155" src="https://github.com/user-attachments/assets/5d165b73-fc79-4cbd-9705-1ad836978c01" />
 
-### Tasks Added
-![Tasks Added](screenshots/tasks-added.png)
+### Login Page
+<img width="1896" height="903" alt="Screenshot 2026-06-29 231124" src="https://github.com/user-attachments/assets/685bdb42-6812-404e-b349-13016c0732de" />
 
 ### Task Management
-![Task Management](screenshots/task-management.png)
+<img width="1898" height="907" alt="Screenshot 2026-06-29 231411" src="https://github.com/user-attachments/assets/1ee9f1a3-1708-458b-88ad-1aa6e7893477" />
 
 ## Installation & Usage
 
